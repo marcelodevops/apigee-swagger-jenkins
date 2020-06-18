@@ -112,7 +112,7 @@ definitions:
     properties:
       name:
         type: string
-        example: ACME Corporation
+        example: hypercloudops Corporation
       homePage:
         type: string
         format: url
